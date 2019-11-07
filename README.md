@@ -131,4 +131,4 @@ The function `jsonpath.Set(data,"$.category",convertFunc)` will return the follo
 
 ## License
 
-MIT © [mdaverde](https://github.com/ryonzhang)
+MIT © [ryonzhang](https://github.com/ryonzhang)
